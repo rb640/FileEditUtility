@@ -1,0 +1,8 @@
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\bin\Release\FilePropertyModifier.exe.config
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\bin\Release\FilePropertyModifier.exe
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\bin\Release\FilePropertyModifier.pdb
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\obj\x86\Release\FilePropertyModifier.frmMain.resources
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\obj\x86\Release\FilePropertyModifier.Properties.Resources.resources
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\obj\x86\Release\FilePropertyModifier.csproj.GenerateResource.Cache
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\obj\x86\Release\FilePropertyModifier.exe
+C:\Users\RONPC5\Desktop\FileDateTimeModifier-master\FilePropertyModifier\FilePropertyModifier\obj\x86\Release\FilePropertyModifier.pdb
